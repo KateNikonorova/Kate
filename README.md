@@ -21,11 +21,11 @@
 Таким образом, "FoodExpress" призвано сделать процесс заказа и доставки еды максимально удобным и быстрым для пользователей, эффективным для ресторанов и курьерских служб.
 
 [Никонорова 231 Тз№3.docx](https://github.com/KateNikonorova/Kate/files/15471846/231.3.docx)
-![modules](https://github.com/KateNikonorova/Kate/assets/168436722/a168c0c1-9711-4725-a73a-f68a9d950a78)
-![state](https://github.com/KateNikonorova/Kate/assets/168436722/f64c8d9f-775e-4409-ad87-40e02c71325f)
+
 ![act_diagram](https://github.com/KateNikonorova/Kate/assets/168436722/b755b8d8-8c97-4486-a2be-c8674e379724)
-![sequence ](https://github.com/KateNikonorova/Kate/assets/168436722/044704e2-b648-452b-a39b-45bda137593e)
 ![usage](https://github.com/KateNikonorova/Kate/assets/168436722/4821cb93-3602-46c8-be75-3264a292cfdb)
-
-
+![state](https://github.com/KateNikonorova/Kate/assets/168436722/f64c8d9f-775e-4409-ad87-40e02c71325f)
+![sequence ](https://github.com/KateNikonorova/Kate/assets/168436722/044704e2-b648-452b-a39b-45bda137593e)
+![modules](https://github.com/KateNikonorova/Kate/assets/168436722/a168c0c1-9711-4725-a73a-f68a9d950a78)
+![act_diagram](https://github.com/KateNikonorova/Kate/assets/168436722/b755b8d8-8c97-4486-a2be-c8674e379724)
 # Kate
